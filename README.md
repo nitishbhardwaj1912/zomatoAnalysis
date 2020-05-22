@@ -10,7 +10,7 @@ Image reference: [1]
 # Analysis on Zomato 
 This repository contains objects related to the machine learning analysis on Zomato Restaurant's data.
 
-## Information on Dataset
+## About Dataset
 
 <p align="center">
   <img src="https://economictimes.indiatimes.com/img/68794106/Master.jpg" alt="Zomato Map">
